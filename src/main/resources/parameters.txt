@@ -1,0 +1,58 @@
+Trieda	Meno	Pôvod	Titánium	Q40	Kredity	Doba
+výroby	Kapacita
+stíhačov	HP	Útok S/L
+Stíhač	Sentri Fighter	rasa	27'700	0	12 mil	2,3 hod	0	2'600	2'100 / 2'200
+Stíhač	Drakh Raider	rasa	46'381	2'269	8 mil	3,9 hod	0	4'200	4'000 / 3'100
+Stíhač	Starfury	rasa	25'616	0	11 mil	2,1 hod	0	2'300	2'000 / 1'800
+Stíhač	Nial Fighter	rasa	40'880	0	16 mil	3,2 hod	0	3'600	2'500 / 3'100
+Stíhač	Frazi	rasa	23'211	0	10 mil	1,9 hod	0	2'200	1'700 / 1'750
+Stíhač	Spitfire	rasa	57'125	2'608	0	4,1 hod	0	4'650	3'200 / 4'000
+Stíhač	Lightning	rasa	56'471	2'578	0	4,1 hod	0	4'500	3'350 / 4'000
+Stíhač	Rutharian Strike	štát	18'880	747	7 mil	2,1 hod	0	1'600	3'500 / 600
+Stíhač	Gorith Fighter	štát	19'437	0	8 mil	1,7 hod	0	1'200	0 / 3'500
+
+
+Trieda	Meno	Pôvod	Titánium	Q40	Kredity	Doba
+výroby	Kapacita
+stíhačov	HP	Útok S/L
+Krížnik	Vorchan Cruiser	rasa	175'280	8'306	117 mil	4,2 hod	2	31'000	25'000 / 8'350
+Krížnik	Drakh Cruiser	rasa	356'964	23'963	50 mil	6,1 hod	0	45'000	38'000 / 10'000
+Krížnik	Hyperion Cruiser	rasa	151'332	7'171	101 mil	3,6 hod	3	26'500	22'000 / 5'200
+Krížnik	Tinashi Frigate	rasa	238'684	10'120	130 mil	5,1 hod	1	36'000	33'000 / 9'300
+Krížnik	Toreth	rasa	131'134	6'402	92 mil	3,2 hod	2	26'000	18'000 / 4'900
+Krížnik	Vampire	rasa	339'441	10'646	0	4 hod	2	31'000	25'000 / 2'800
+Krížnik	Ambassador	rasa	318'178	9'979	0	3,8 hod	0	29'000	24'000 / 3'200
+Krížnik	Covran Scout	štát	114'391	255	89 mil	2,2 hod	0	12'000	20'000 / 200
+Krížnik	Kutai Gunship	štát	127'972	2'782	81 mil	2,4 hod	8	20'000	3'500 / 13'000
+Krížnik	Drakh Shuttle	štát	162'205	1'528	0	0,9 hod	6	17'000	0 / 0
+Krížnik	Olympus Corvette	štát	63'179	198	81 mil	1,7 hod	0	9'000	16'000 / 500
+Krížnik	Morshin Carrier	štát	295'619	0	243 mil	4,9 hod	32	80'000	0 / 0
+Krížnik	Torotha Assault	štát	120'106	3'395	98 mil	2,7 hod	0	11'000	32'000 / 0
+Krížnik	Sho'kar Scout	štát	135'237	1'593	107 mil	2,7 hod	0	15'000	25'000 / 0
+Krížnik	Th'Nor	štát	97'837	16'987	81 mil	3,7 hod	4	22'000	0 / 31'000
+
+
+Trieda	Meno	Pôvod	Titánium	Q40	Kredity	Doba
+výroby	Kapacita
+stíhačov	HP	Útok S/L
+Loď	Primus Cruiser	rasa	187'391	8'714	152 mil	4,5 hod	12	39'200	7'600 / 23'200
+Loď	Drakh Carrier	rasa	535'104	39'022	36 mil	8,1 hod	10	72'000	12'800 / 41'600
+Loď	Nova Dreadnought	rasa	121'881	5'906	118 mil	3,3 hod	8	32'800	6'400 / 14'400
+Loď	Sharlin	rasa	194'850	12'074	199 mil	5,7 hod	8	52'000	10'400 / 28'000
+Loď	Bin'Tak	rasa	125'748	6'824	143 mil	3,8 hod	10	28'000	5'600 / 24'000
+Loď	Battle Crab	rasa	1'122'603	77'883	0	17,8 hod	12	132'000	13'000 / 115'000
+Loď	Star Dreadnought	rasa	978'189	67'864	0	15,6 hod	6	99'000	8'500 / 120'000
+Loď	Covran Gunship	štát	116'960	20'357	125 mil	5,2 hod	6	30'000	1'500 / 45'000
+Loď	Drakh Advanced	štát	400'348	50'921	161 mil	11,9 hod	0	70'000	0 / 100'000
+Loď	Warlock Destroyer	štát	118'216	27'566	71 mil	4,9 hod	0	25'000	0 / 47'000
+Loď	Omega Destroyer	štát	240'003	15'602	182 mil	6,5 hod	18	53'000	1'500 / 39'000
+Loď	Shargoti	štát	379'023	35'583	268 mil	11,3 hod	14	88'000	0 / 72'000
+Loď	G'Quan	štát	215'744	494	175 mil	4,5 hod	20	70'000	2'000 / 14'000
+
+
+Trieda	Meno	Pôvod	Titánium	Q40	Kredity	Doba
+výroby	Kapacita
+stíhačov	HP	Útok S/L
+Destroyer	Mother Ship	štát	1'815'629	333'571	146 mil	41,9 hod	120	250'000	0 / 350'000
+Destroyer	Death Cloud	štát	1'687'321	429'227	0	31,7 hod	0	230'000	0 / 870'000
+Destroyer	Planet Killer	štát	1'720'331	437'625	0	31,2 hod	80	360'000	15'000 / 532'000

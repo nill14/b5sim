@@ -1,0 +1,292 @@
+
+Od 10.1.2014 prebieha vek Multi XI.
+Je tu prítomných 14 z 139 hráčov
+Si prihlásený pod nickom thunder
+2268-02-28/2329.59
+Komunikácia
+Stanica
+Flotila
+Politika
+Mapa
+Štatistika
+Hlavné menu
+Ti1'250'736
+Q40407'605
+Cr41'858'923
+rTi3'145'587
+rQ40522'927
+Správa prebiehajúceho útoku
+? Pomoc
+
+Začiatok	Sektor	Útočník	Obranca 	Typ	Ďalšie kolo	Počet kôl
+28 Feb - 21:30	s14	Vorlonské Impérium	Pozemská Aliancia	na sektor	5h 30m 09s	1
+
+
+Útočník (Vorlonské Impérium, Minbarská Federácia, Narnský Režim)
+Meno skupiny	Vlastník	Štát	Ústup
+3	morden	Minbarská Federácia	-
+4	morden	Minbarská Federácia	-
+1	morden	Minbarská Federácia	-
+5	morden	Minbarská Federácia	-
+01	popo	Minbarská Federácia	-
+ea souleaters	amonyx	Narnský Režim	-
+6	zaskodnik	Vorlonské Impérium	-
+
+
+Obranca (Pozemská Aliancia, Kolónia Drakhov, Tienske Spoločenstvo)
+Meno skupiny	Vlastník	Štát	Ústup
+home	Gaterinka	Kolónia Drakhov	-
+fg	Cáca	Pozemská Aliancia	-
+Krizniky 7	mul	Pozemská Aliancia	-
+3	bedo26	Tienske Spoločenstvo	-
+6	bedo26	Tienske Spoločenstvo	-
+7	bedo26	Tienske Spoločenstvo	-
+1	bedo26	Tienske Spoločenstvo	-
+8	bedo26	Tienske Spoločenstvo	-
+9	bedo26	Tienske Spoločenstvo	-
+2	bedo26	Tienske Spoločenstvo	-
+4	bedo26	Tienske Spoločenstvo	-
+5	bedo26	Tienske Spoločenstvo	-
+Vamp 1	Jeliman	Tienske Spoločenstvo	-
+BC	Jeliman	Tienske Spoločenstvo	-
+wtfh 03	Lunil	Tienske Spoločenstvo	-
+wtfh 06	Lunil	Tienske Spoločenstvo	-
+wtfh 02	Lunil	Tienske Spoločenstvo	-
+wtfh 05	Lunil	Tienske Spoločenstvo	-
+[Krabici]	Miso	Tienske Spoločenstvo	-
+[Klepeta]	Miso	Tienske Spoločenstvo	-
+Babatko	Miso	Tienske Spoločenstvo	-
+Zoidiii	Miso	Tienske Spoločenstvo	-
+Eskorta	Miso	Tienske Spoločenstvo	-
+farba 1	NohoSled	Tienske Spoločenstvo	-
+NohoSled in s14	NohoSled	Tienske Spoločenstvo	-
+NohoSled in den	NohoSled	Tienske Spoločenstvo	-
+Escort service	pan Morden	Tienske Spoločenstvo	-
+Darkness - 000	Shinigami	Tienske Spoločenstvo	-
+Shinigami in s14	Shinigami	Tienske Spoločenstvo	-
+presun 3	Scheriden	Tienske Spoločenstvo	-
+Shadow Reinforcement	TF	Tienske Spoločenstvo	-
+scout	thunder	Tienske Spoločenstvo	
+thunder in s14	thunder	Tienske Spoločenstvo	
+tornado	thunder	Tienske Spoločenstvo	
+typhoon	thunder	Tienske Spoločenstvo	
+
+
+Lode útočníka (Vorlonské Impérium, Minbarská Federácia, Narnský Režim)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+2	morden	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+3	morden	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+2	morden	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+4	morden	0.50000	50%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-033	popo	0.54965	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-036	popo	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-042	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+tchor5new	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor6new	amonyx	0.50000	71%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor7new	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+4	zaskodnik	0.62868	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Útok stíhače [S/L]: 0/0	Útok lode [S/L]: 125069/75011	HP spolu [S/K/L/D]: 0/322620/0/0
+
+
+Lode obrancu (Pozemská Aliancia, Kolónia Drakhov, Tienske Spoločenstvo)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Letka 1027	bedo26	0.54051	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 807	bedo26	0.51620	-	[S] Spitfire	4	4'650	3'200/4'000	S;D;K;L
+Letka 1065	bedo26	0.51620	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 424	bedo26	0.53241	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 1224	bedo26	0.54051	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 1253	bedo26	0.50884	-	[S] Spitfire	11	4'650	3'200/4'000	S;D;K;L
+Letka 520	bedo26	0.54051	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 919	bedo26	0.54861	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 774	bedo26	0.52430	-	[S] Spitfire	12	4'650	3'200/4'000	S;D;K;L
+Letka 707	Jeliman	0.50405	-	[S] Spitfire	43	4'650	3'200/4'000	S;K;L;D
+RTW1010	Lunil	0.53240	-	[S] Spitfire	6	4'650	3'200/4'000	S;K;L;D
+RTW1011	Lunil	0.56481	-	[S] Spitfire	1	4'650	3'200/4'000	S;K;L;D
+RTW1012	Lunil	0.51620	-	[S] Spitfire	6	4'650	3'200/4'000	S;K;L;D
+RTW1013	Lunil	0.56481	-	[S] Spitfire	6	4'650	3'200/4'000	S;K;L;D
+Letka 1217	Miso	0.51944	-	[S] Spitfire	5	4'650	3'200/4'000	K;L;S;D
+Letka 683	NohoSled	0.51296	-	[S] Spitfire	90	4'650	3'200/4'000	K;L;S;D
+Letka 265	pan Morden	0.50000	-	[S] Spitfire	14	4'650	3'200/4'000	D;L;K;S
+Letka 1088	Shinigami	0.51620	-	[S] Spitfire	31	4'650	3'200/4'000	K;S;L;D
+Letka 1071	TF	0.51350	-	[S] Spitfire	36	4'650	3'200/4'000	L;K;D;S
+Letka 125	thunder	0.64583	-	[S] Spitfire	2	4'650	3'200/4'000	S;D;L;K
+Letka 117	thunder	0.79166	-	[S] Spitfire	2	4'650	3'200/4'000	L;D;S;K
+Letka 123	thunder	0.59722	-	[S] Spitfire	2	4'650	3'200/4'000	L;D;S;K
+Letka 124	thunder	0.79167	-	[S] Spitfire	2	4'650	3'200/4'000	L;D;S;K
+Letka 810	thunder	0.88889	-	[S] Spitfire	1	4'650	3'200/4'000	L;D;S;K
+juu hele	Gaterinka	0.66041	9%	[K] Drakh Cruiser	1	45'000	38'000/10'000	S;L;K;D
+O70	mul	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Vamp	Jeliman	0.67626	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.65108	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.60072	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.57554	28%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.52518	27%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.60072	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.60072	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.62590	25%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Tralala	Lunil	0.60072	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+DoreMilA	Lunil	0.55036	58%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Mrkva	Lunil	0.55036	24%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+EHm...	Lunil	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+wtf	Lunil	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Carbanica	Lunil	0.57554	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+EsteJeden	Lunil	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+TyBrdo	Lunil	0.57554	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+chyba	Lunil	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Error	Lunil	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Packal	Lunil	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Arciupír	Miso	0.57554	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bubishan	Miso	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bubák	Miso	0.60072	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bubishanka	Miso	0.67626	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bubatenko	Miso	0.60072	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+1	NohoSled	0.67626	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+6	NohoSled	0.65108	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+12	NohoSled	0.60072	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+13	NohoSled	0.70144	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+14	NohoSled	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+7	NohoSled	0.67626	79%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+1	NohoSled	0.62590	9%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+3	NohoSled	0.67626	29%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+8	NohoSled	0.70144	18%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+11	NohoSled	0.70144	10%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Hunger	pan Morden	0.82734	10%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Glory	pan Morden	0.67626	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Maine	pan Morden	0.65108	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Reason	pan Morden	0.67626	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Zoom	pan Morden	0.62590	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Shame	pan Morden	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Rogue	pan Morden	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+8	Scheriden	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bat	thunder	0.62590	100%	[K] Vampire	1	31'000	25'000/2'800	S;D;K;L
+Bat	thunder	0.70144	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+poi	Cáca	0.51728	40%	[L] Omega Destroyer	1	53'000	1'500/39'000	L;K;D;S
+loki	bedo26	0.50547	10%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+azrael	bedo26	0.52734	70%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+odin	bedo26	0.51641	10%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+michael	bedo26	0.51641	70%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+peron	bedo26	0.54375	10%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+gabriel	bedo26	0.52188	22%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+gabriel	bedo26	0.52188	100%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+thor	bedo26	0.51094	70%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+lucifer	bedo26	0.53281	40%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+Kráľ Jelimán	Jeliman	0.53282	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.53282	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.53829	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.52188	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.53282	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.51641	9%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.53828	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+dddmmmAAA	Lunil	0.51641	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Blba bla bal	Lunil	0.51641	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Klarab	Lunil	0.51641	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Neviem	Lunil	0.51094	21%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Sumienka	Lunil	0.52735	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+HopSupTralala	Lunil	0.54375	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+???	Lunil	0.53282	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+:::	Lunil	0.52735	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+Ujha	Lunil	0.50547	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Karbonatok	Lunil	0.51094	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Hladny Krab	Miso	0.54376	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Klepietko	Miso	0.59844	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+Babatko	Miso	0.52734	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+Dr. Zoidberg	Miso	0.56563	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+First one	NohoSled	0.52735	70%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+Second one	NohoSled	0.53829	100%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+3	NohoSled	0.51641	70%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+4	NohoSled	0.54923	40%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+5	NohoSled	0.51641	13%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+7	NohoSled	0.52188	70%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+8	NohoSled	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;S;D
+Chaos - 017	Shinigami	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 018	Shinigami	0.51094	70%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 016	Shinigami	0.51094	14%	[L] Battle Crab	1	132'000	13'000/115'000	D;L;K;S
+Horrorus	TF	0.52188	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Corellian	TF	0.50547	40%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Overlord	TF	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dread	thunder	0.60393	46%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;D;S
+Dread	thunder	0.54376	70%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;D;S
+Dread	thunder	0.56017	70%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;D;S
+Dread V	thunder	0.54923	40%	[L] Battle Crab	1	132'000	13'000/115'000	K;L;D;S
+Dread IV	thunder	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	K;D;L;S
+Obranná stanica	1	-	-	-	1	-	-
+Útok stíhače [S/L]: 580133/725166	Útok lode [S/L]: 725765/1879040	HP spolu [S/K/L/D]: 1608900/1072320/3961400/0
+
+
+
+História útoku
+
+Straty v kolách
+Kolo	Vlastník	Model	Meno lode	Počet
+1	Jeliman	[S] Spitfire	-	5
+1	Stentch	[D] Planet Killer	Svetelna sou vesmiru	1
+1	Stentch	[S] Lightning	-	80
+1	Lunil	[S] Spitfire	-	5
+1	bedo26	[S] Spitfire	-	8
+1	Miso	[S] Spitfire	-	5
+1	Shinigami	[S] Spitfire	-	5
+1	zaskodnik	[D] Planet Killer	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	zaskodnik	[S] Lightning	-	80
+1	zaskodnik	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[S] Lightning	-	6
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Koh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	tomas1502	[L] Star Dreadnought	Kosh	1
+1	morden	[S] Nial Fighter	-	4
+1	HerrUr	[L] Shargoti	Drunčeban Kenoby	1
+1	HerrUr	[L] Shargoti	Lurnik Kovalov	1
+1	HerrUr	[L] Shargoti	Lordesta De Nino	1
+1	HerrUr	[L] Shargoti	Ulkesh Ankhesenamun	1
+1	HerrUr	[L] Shargoti	Aslan Nazarbayev	1
+1	HerrUr	[L] Shargoti	Mighty HerrUr	1
+
+
+Celkové straty útočníkov
+Vlastník	Destroyer	Loď	Krížnik	Stíhače
+Stentch	1	0	0	80
+HerrUr	0	6	0	0
+popo	0	0	0	0
+morden	0	0	0	4
+zaskodnik	1	8	0	80
+tomas1502	0	11	0	6
+amonyx	0	0	0	0
+Celkovo	2	25	0	170
+
+Celkové straty obrancov
+Vlastník	Destroyer	Loď	Krížnik	Stíhače
+mul	0	0	0	0
+Cáca	0	0	0	0
+Gaterinka	0	0	0	0
+pan Morden	0	0	0	0
+Jeliman	0	0	0	5
+NohoSled	0	0	0	0
+TF	0	0	0	0
+Lunil	0	0	0	5
+bedo26	0	0	0	8
+Miso	0	0	0	5
+Shinigami	0	0	0	5
+thunder	0	0	0	0
+Scheriden	0	0	0	0
+Celkovo	0	0	0	28
+
+Sumár boja
+Strana	Destroyer	Loď	Krížnik	Stíhače
+Útočník - straty	100 %	100 %	7,03 %	100 %
+Obranca - straty	0 %	36,29 %	0 %	7,59 %
+Vygenerované za 0,194 sekúnd. SQL[257]: 0,145 sekúnd. Verzia: 3.3

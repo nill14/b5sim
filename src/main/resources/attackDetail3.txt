@@ -1,0 +1,90 @@
+Útočník (Tienske Spoločenstvo)
+Meno skupiny	Vlastník	Štát	Ústup
+BC	Jeliman	Tienske Spoločenstvo	-
+farba 2	NohoSled	Tienske Spoločenstvo	-
+NohoSled in den	NohoSled	Tienske Spoločenstvo	-
+Escort service	pan Morden	Tienske Spoločenstvo	-
+Shadows	pan Morden	Tienske Spoločenstvo	-
+Big Papa	pan Morden	Tienske Spoločenstvo	-
+Darkness - 004	Shinigami	Tienske Spoločenstvo	-
+Darkness - 006	Shinigami	Tienske Spoločenstvo	-
+Darkness - 002	Shinigami	Tienske Spoločenstvo	-
+Darkness - 005	Shinigami	Tienske Spoločenstvo	-
+Darkness - 008	Shinigami	Tienske Spoločenstvo	-
+Darkness - 003	Shinigami	Tienske Spoločenstvo	-
+Darkness - 007	Shinigami	Tienske Spoločenstvo	-
+Darkness - 009	Shinigami	Tienske Spoločenstvo	-
+Sheriden Star	Scheriden	Tienske Spoločenstvo	-
+blizzard	thunder	Tienske Spoločenstvo	
+monsoon	thunder	Tienske Spoločenstvo	
+
+
+Obranca (Vorlonské Impérium)
+Meno skupiny	Vlastník	Štát	Ústup
+Archangels	GrandMaester Luwin	Vorlonské Impérium	-
+Ambassador 9	Shaltok	Vorlonské Impérium	-
+Star Dreadnought Secunda	Shaltok	Vorlonské Impérium	-
+Star Dreadnought One	Shaltok	Vorlonské Impérium	-
+
+
+Lode útočníka (Tienske Spoločenstvo)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Letka 303	thunder	0.59722	-	[S] Spitfire	2	4'650	3'200/4'000	L;D;K;S
+Vamp	Jeliman	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Vamp	Jeliman	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+1	NohoSled	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+1	NohoSled	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+3	NohoSled	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Zuzu	pan Morden	0.62590	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Glory	pan Morden	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Maine	pan Morden	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Reason	pan Morden	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Zoom	pan Morden	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+V-01	Scheriden	0.72662	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Bat	thunder	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;D;K;L
+Bat	thunder	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	L;D;K;S
+Kráľ Jelimán	Jeliman	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Kráľ Jelimán	Jeliman	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+First one	NohoSled	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Second one	NohoSled	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+4	NohoSled	0.52188	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+5	NohoSled	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 004	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 006	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 002	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 005	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 008	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 003	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 007	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Chaos - 009	Shinigami	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Nightmare	Scheriden	0.52735	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dread	thunder	0.51641	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dread	thunder	0.52188	100%	[L] Battle Crab	1	132'000	13'000/115'000	K;D;S;L
+Dread	thunder	0.53282	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Summoner	pan Morden	0.50000	100%	[D] Death Cloud	1	230'000	0/870'000	D;K;L;S
+Galaxy Easter	pan Morden	0.50000	100%	[D] Death Cloud	1	230'000	0/870'000	L;K;D;S
+Shadow FlagShip	Scheriden	0.50401	100%	[D] Death Cloud	1	230'000	0/870'000	L;K;D;S
+Scheriden FlagShip	Scheriden	0.50000	100%	[D] Death Cloud	1	230'000	0/870'000	K;D;L;S
+Downburst	thunder	0.50000	100%	[D] Death Cloud	1	230'000	0/870'000	L;K;D;S
+Útok stíhače [S/L]: 3822/4778	Útok lode [S/L]: 313426/3307166	HP spolu [S/K/L/D]: 9300/434000/2508000/1150000
+
+
+Lode obrancu (Vorlonské Impérium)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Lightingy	GrandMaester Luwin	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka 557	GrandMaester Luwin	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Envoy of Gods	GrandMaester Luwin	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Julia Lipnitskaia	GrandMaester Luwin	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+CarolinaCosta	GrandMaester Luwin	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Amálka	GrandMaester Luwin	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Lyta Alexandra	GrandMaester Luwin	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Ara	Shaltok	0.55147	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Lyta Alexander	GrandMaester Luwin	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+LoLyta	GrandMaester Luwin	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Inner Light	GrandMaester Luwin	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Achernar	Shaltok	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Acamar	Shaltok	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Obranná stanica	1	-	-	-	1	-	-
+Útok stíhače [S/L]: 20100/24000	Útok lode [S/L]: 94532/310419	HP spolu [S/K/L/D]: 54000/174000/495000/0

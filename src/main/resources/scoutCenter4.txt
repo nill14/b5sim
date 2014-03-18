@@ -1,0 +1,16 @@
+Deneb 4
+[den]
+vojnový stav	A/A	Pozemská Aliancia	[K] Hyperion Cruiser: 7
+[K] Olympus Corvette: 27
+[L] Omega Destroyer: 12
+[L] Warlock Destroyer: 59
+V/V	Minbarská Federácia	[K] Morshin Carrier: 2
+[K] Tinashi Frigate: 20
+[K] Torotha Assault: 5
+[L] Shargoti: 29
+[L] Sharlin: 1
+V/V	Narnský Režim	[K] Th'Nor: 5
+[L] Bin'Tak: 3
+V/V	Vorlonské Impérium	[K] Ambassador: 9
+[L] Star Dreadnought: 33
+[D] Planet Killer: 3

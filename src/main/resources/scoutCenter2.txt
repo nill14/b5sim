@@ -1,0 +1,5 @@
+Ipsha
+[ips]	A/A	Kolónia Drakhov	[K] Drakh Cruiser: 1
+[K] Drakh Shuttle: 2
+[L] Drakh Advanced: 3
+[L] Drakh Carrier: 11

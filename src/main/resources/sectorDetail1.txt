@@ -1,0 +1,18 @@
+
+Bojové lode v sektore
+Vzťah	Vlastník	Skupina	Stav	Počet lodí	Obsah
+V/V	Aethius	Aethius in den	v pokoji	5	[K] Morshin Carrier: 5
+V/V	Aethius	Aethius in gor	v boji	0	[S] Nial Fighter: 155
+V/V	bukator	Ares- komando svetla	v pokoji	6	[K] Morshin Carrier: 6
+V/V	bukator	Athena	v boji	0	[S] Nial Fighter: 12
+V/V	bukator	dorotka2	v boji	0	[S] Nial Fighter: 1
+V/V	bukator	Luftwaffe	v boji	0	[S] Nial Fighter: 178
+V/V	bukator	Poseidon	v boji	0	[S] Nial Fighter: 1
+-/-	Lunil	wtfh 04	v boji	1	[L] Battle Crab: 1
+V/V	Emperor XXII	Emperor XXII in s35	v boji	0	[S] Lightning: 6
+V/V	Emperor XXII	farbicka	v boji	0	[S] Lightning: 4
+V/V	Emperor XXII	Peacekeepers	v boji	4	[L] Star Dreadnought: 4
+V/V	Emperor XXII	RE	v boji	2	[L] Star Dreadnought: 2
+V/V	Emperor XXII	Watchers 2	v boji	0	[S] Lightning: 12
+-/-	DusKE	Vrahovia	v pokoji	7	[K] Vampire: 6
+[L] Battle Crab: 1

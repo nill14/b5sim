@@ -1,0 +1,11 @@
+Lode útočníka (Tienske Spoločenstvo)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Bat	thunder	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Dread IV	thunder	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;S;D
+Útok stíhače [S/L]: 0/0	Útok lode [S/L]: 19000/58900	HP spolu [S/K/L/D]: 0/31000/132000/0
+
+
+Lode obrancu (Centaurská Republika)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+CR Mioko	scorpion99	0.50000	99%	[L] Primus Cruiser	1	39'200	7'600/23'200	-
+Útok stíhače [S/L]: 0/0	Útok lode [S/L]: 3762/11484	HP spolu [S/K/L/D]: 0/0/38808/0

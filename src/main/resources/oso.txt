@@ -1,0 +1,233 @@
+Lode útočníka (Pozemská Aliancia, Kolónia Drakhov)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Kn'thrak	Inquisitor	0.50000	100%	[K] Drakh Cruiser	1	45'000	38'000/10'000	S;K;L;D
+ivo157	ivo15	0.50000	100%	[K] Drakh Cruiser	1	45'000	38'000/10'000	S;K;L;D
+Eplonin	dragon	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Rinout	dragon	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Teino	dragon	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Ymomung	dragon	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Daniel	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Nikita	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Alexandra	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Virginie	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Betty	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Ariel	jakop	0.50000	100%	[K] Olympus Corvette	1	9'000	16'000/500	S;K;L;D
+Glliselda	Gaterinka	0.50000	100%	[L] Drakh Advanced	1	70'000	0/100'000	K;L;D;S
+Lara	Gaterinka	0.50000	100%	[L] Drakh Advanced	1	70'000	0/100'000	K;L;D;S
+Lyra	Gaterinka	0.50000	100%	[L] Drakh Advanced	1	70'000	0/100'000	K;L;D;S
+Kn'thrak	Inquisitor	0.56300	100%	[L] Drakh Advanced	1	70'000	0/100'000	K;L;D;S
+Kn'thrak	Inquisitor	0.50000	100%	[L] Drakh Advanced	1	70'000	0/100'000	K;L;D;S
+ivo155	ivo15	0.50000	100%	[L] Drakh Carrier	1	72'000	12'800/41'600	L;K;D;S
+ivo156	ivo15	0.50000	100%	[L] Drakh Carrier	1	72'000	12'800/41'600	L;K;D;S
+Umqlu	dragon	0.57447	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Iminos	dragon	0.52979	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Omaniac	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Prolton	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Awana	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Slejnwar	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Droplonny	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Felowis	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Guomon	dragon	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+Agamemnon NCC-11638	jakop	0.52979	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+Bára	jakop	0.60425	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+Arctic One	jakop	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+Argo (NCC-1701-E)	jakop	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+Archer NCC-44278	jakop	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+Archon	jakop	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;S;D
+USS KRAMPLOVA	mul	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+USS KOZLIK	mul	0.50000	100%	[L] Warlock Destroyer	1	25'000	0/47'000	K;L;D;S
+EAO Headbang	Sharp	0.50000	100%	[L] Omega Destroyer	1	53'000	1'500/39'000	K;L;D;S
+EAO New	Sharp	0.50000	100%	[L] Omega Destroyer	1	53'000	1'500/39'000	K;L;D;S
+Útok stíhače [S/L]: 0/0	Útok lode [S/L]: 132300/760100	HP spolu [S/K/L/D]: 0/180000/1025000/0
+
+
+Lode obrancu (Minbarská Federácia, Narnský Režim, Vorlonské Impérium)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+Letka 817	popo	0.50000	-	[S] Nial Fighter	20	3'600	2'500/3'100	-
+Letka 893	amonyx	0.50000	-	[S] Gorith Fighter	12	1'200	0/3'500	-
+Fighter Group 1	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Fighter Group 2	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Fighter Group 3	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Fighter Group 4	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Fighter Group 5	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Fighter Group 6	Stumpy	0.50000	-	[S] Frazi	30	2'200	1'700/1'750	-
+Letka 905	Clint	0.50000	-	[S] Lightning	4	4'500	3'350/4'000	-
+Letka Prometheus	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Lord Marsshal	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Auriga	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Nostromo	ridick	0.50000	-	[S] Lightning	3	4'500	3'350/4'000	-
+Letka Nemesis	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Ursa Luna	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka USS Sulaco	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Agard	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Black Hawk	ridick	0.51587	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Agamemnon	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Ragnarök	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Icarus	ridick	0.50000	-	[S] Lightning	4	4'500	3'350/4'000	-
+Letka Valkyra	ridick	0.51587	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Cerebro	ridick	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka Valhala	ridick	0.50000	-	[S] Lightning	2	4'500	3'350/4'000	-
+Letka	Shaltok	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+Letka	Shaltok	0.50000	-	[S] Lightning	6	4'500	3'350/4'000	-
+1	Daemon_Tool	0.58750	100%	[K] Torotha Assault	1	11'000	32'000/0	-
+1	Daemon_Tool	0.50000	100%	[K] Torotha Assault	1	11'000	32'000/0	-
+1	Daemon_Tool	0.52188	100%	[K] Torotha Assault	1	11'000	32'000/0	-
+1	Daemon_Tool	0.52188	100%	[K] Torotha Assault	1	11'000	32'000/0	-
+1	imro	0.66549	84%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+1	imro	0.56620	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+1	imro	0.58275	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+1	imro	0.58275	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+1	imro	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+Omracovac	Jofo	0.56619	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+.	malus	0.56563	98%	[K] Torotha Assault	1	11'000	32'000/0	-
+Rubicon	Pennywise	0.69858	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-037	popo	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-043	popo	0.54965	48%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-044	popo	0.51655	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-045	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-046	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-047	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-032	popo	0.56619	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-034	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-035	popo	0.56620	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-036	popo	0.58274	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-037	popo	0.63238	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-038	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-039	popo	0.51655	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-038	popo	0.54965	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-040	popo	0.53310	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-041	popo	0.56620	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-048	popo	0.51655	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-049	popo	0.51655	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-050	popo	0.51655	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+TF-051	popo	0.50000	100%	[K] Tinashi Frigate	1	36'000	33'000/9'300	-
+tchor8	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor9	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor8	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor9	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor10	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor10	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+tchor11	amonyx	0.50000	100%	[K] Th'Nor	1	22'000	0/31'000	-
+Sh'kr 01	Stumpy	0.50000	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 02	Stumpy	0.50000	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 03	Stumpy	0.50000	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 04	Stumpy	0.50000	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 07	Stumpy	0.58400	50%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 08	Stumpy	0.52800	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Sh'kr 06	Stumpy	0.50000	100%	[K] Sho'kar Scout	1	15'000	25'000/0	-
+Andromeda	Shaltok	0.62868	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Apus	Shaltok	0.60295	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Boötes	Shaltok	0.50000	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Canes Venatici	Shaltok	0.52574	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Canis Major	Shaltok	0.57721	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Canis Minor	Shaltok	0.52574	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Capricornus	Shaltok	0.55147	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+Carina	Shaltok	0.52574	100%	[K] Ambassador	1	29'000	24'000/3'200	-
+1	Daemon_Tool	0.62761	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+1	Daemon_Tool	0.50000	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+1	Daemon_Tool	0.50000	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+Korab. 3	haho	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Korab 1	haho	0.54861	100%	[L] Shargoti	1	88'000	0/72'000	-
+Korab. 4	haho	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Charon13	haho	0.50000	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+Korab 2	haho	0.52917	100%	[L] Shargoti	1	88'000	0/72'000	-
+1	imro	0.59115	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+1	imro	0.50000	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+1	imro	0.51823	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+1	imro	0.51944	40%	[L] Shargoti	1	88'000	0/72'000	-
+Suhaj-3	Jofo	0.53646	100%	[L] Sharlin	1	52'000	10'400/28'000	-
+Hrkalka	Jofo	0.50972	70%	[L] Shargoti	1	88'000	0/72'000	-
+Hrkalka2	Jofo	0.50972	100%	[L] Shargoti	1	88'000	0/72'000	-
+Hrkalka3	Jofo	0.50000	70%	[L] Shargoti	1	88'000	0/72'000	-
+Krkovicka	Jofo	0.50972	100%	[L] Shargoti	1	88'000	0/72'000	-
+New Hatatitla	Jofo	0.50000	40%	[L] Shargoti	1	88'000	0/72'000	-
+sha8	klapacius	0.56805	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha9	klapacius	0.51944	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha12	klapacius	0.54861	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha13	klapacius	0.53889	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha14	klapacius	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha8	klapacius	0.52916	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha11	klapacius	0.51944	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha15	klapacius	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha10	klapacius	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+sha16	klapacius	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Sgt01	malus	0.57777	70%	[L] Shargoti	1	88'000	0/72'000	-
+Sgt02	malus	0.54860	100%	[L] Shargoti	1	88'000	0/72'000	-
+Sgt05	malus	0.53888	74%	[L] Shargoti	1	88'000	0/72'000	-
+Sgt07	malus	0.53889	100%	[L] Shargoti	1	88'000	0/72'000	-
+Sgt08	malus	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Lobotomizer	Pennywise	0.51944	70%	[L] Shargoti	1	88'000	0/72'000	-
+Killer Queen	Pennywise	0.52917	100%	[L] Shargoti	1	88'000	0/72'000	-
+Warhammer	Pennywise	0.53888	100%	[L] Shargoti	1	88'000	0/72'000	-
+Weeping Angel	Pennywise	0.52917	100%	[L] Shargoti	1	88'000	0/72'000	-
+Shar 8	roli	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Shar	roli	0.50972	100%	[L] Shargoti	1	88'000	0/72'000	-
+Shar 1	roli	0.50000	100%	[L] Shargoti	1	88'000	0/72'000	-
+Shar 2	roli	0.51944	70%	[L] Shargoti	1	88'000	0/72'000	-
+binik11	amonyx	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+binik12	amonyx	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+GQ NS40	Galen1981	0.50000	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+GQ NS45	Galen1981	0.50000	70%	[L] G'Quan	1	70'000	2'000/14'000	-
+GQ NS44	Galen1981	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+GQ NS46	Galen1981	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+BT50	Galen1981	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+BT51	Galen1981	0.52365	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+Jha'Quan tridsiaty deviaty	Jerry	0.57095	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+Hun'Kar styridsiaty	Jerry	0.57095	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+dcdds	Jerry	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+dfsdfsd	Jerry	0.52365	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+fsdfsd	Jerry	0.50000	46%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+gfhffgf	Jerry	0.50000	46%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+sadasdas	Jerry	0.54730	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+ewew	Jerry	0.54730	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+fddrtr	Jerry	0.52365	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+erere	Jerry	0.52365	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+ougfif	Jerry	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+cbnvghvjjvgchjfc	Jerry	0.50000	100%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+dfsdfsd	Jerry	0.52365	46%	[L] Bin'Tak	1	28'000	5'600/24'000	-
+G'Q 05	Stumpy	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 06	Stumpy	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 09	Stumpy	0.54375	70%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 10	Stumpy	0.54375	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 11	Stumpy	0.54375	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 12	Stumpy	0.58750	70%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 03	Stumpy	0.54375	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 04	Stumpy	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 07	Stumpy	0.58750	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 08	Stumpy	0.50000	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 01	Stumpy	0.50000	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+G'Q 02	Stumpy	0.54375	100%	[L] G'Quan	1	70'000	2'000/14'000	-
+Tyrael	Caesar	0.52723	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Ysera	Caesar	0.51089	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Al'maiesh	Caesar	0.53268	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Chalad'ar	Caesar	0.53813	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Baal	Caesar	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+LONDO	Clint	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+GARIBALDI	Clint	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+SINCLAIR	Clint	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+VIR	Clint	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+LORD REFA	Clint	0.52179	70%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+MARKUS	Clint	0.52178	70%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+LYTA ALEXANDER	Clint	0.51634	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+SANTIAGO	Clint	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+DRAAL	Clint	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Prometheus	ridick	0.51089	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Lord Marshal	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Auriga	ridick	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Nostromo	ridick	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Nemesis	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Ursa Luna	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+USS Sulaco	ridick	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Asgard	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Black Hawk	ridick	0.51089	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Agamemnon	ridick	0.51089	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Ragnarök	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Valkyra	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Icarus	ridick	0.50545	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Cerebro	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Valhala	ridick	0.50000	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+I	Shaltok	0.51634	70%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+II	Shaltok	0.50545	65%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+III	Shaltok	0.51090	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Kosh	Ulkesh	0.53267	100%	[L] Star Dreadnought	1	99'000	8'500/120'000	-
+Útok stíhače [S/L]: 341113/404262	Útok lode [S/L]: 1000520/3753110	HP spolu [S/K/L/D]: 918900/1485800/7690410/0

@@ -1,0 +1,90 @@
+Lode útočníka (Kolónia Drakhov)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+1	asgard18	0.61900	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.64000	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.60500	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.60500	40%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.61900	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.57700	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.56300	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.64155	100%	[L] Drakh Carrier	1	72'000	12'800/41'600	-
+1	asgard18	0.55600	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.60500	30%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.58400	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.52800	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.54200	54%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.53500	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.57000	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.53500	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.54900	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.57000	40%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.53500	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.53500	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.54200	40%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.55600	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.59800	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.53500	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.50000	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.55147	70%	[L] Drakh Carrier	1	72'000	12'800/41'600	-
+1	asgard18	0.52800	70%	[L] Drakh Advanced	1	70'000	0/100'000	-
+1	asgard18	0.54200	100%	[L] Drakh Advanced	1	70'000	0/100'000	-
+Útok stíhače [S/L]: 0/0	Útok lode [S/L]: 13153/1083875	HP spolu [S/K/L/D]: 0/0/1420200/0
+
+
+Lode obrancu (Tienske Spoločenstvo)
+Meno lode/letky	Vlastník	Presnosť	Stav	Model	Počet	HP	Útok S/L	Stratégia
+RTW1010	Lunil	0.53240	-	[S] Spitfire	6	4'650	3'200/4'000	S;K;L;D
+RTW1011	Lunil	0.56481	-	[S] Spitfire	1	4'650	3'200/4'000	S;K;L;D
+RTW1012	Lunil	0.51620	-	[S] Spitfire	6	4'650	3'200/4'000	S;K;L;D
+RTW1013	Lunil	0.56481	-	[S] Spitfire	3	4'650	3'200/4'000	S;K;L;D
+Letka1	Miso	0.51599	-	[S] Spitfire	152	4'650	3'200/4'000	L;K;S;D
+Letka	Shinigami	0.50791	-	[S] Spitfire	156	4'650	3'200/4'000	L;K;D;S
+Letkasmrti	TF	0.51874	-	[S] Spitfire	293	4'650	3'200/4'000	L;K;S;D
+Letka 1773	thunder	0.55058	-	[S] Spitfire	12	4'650	3'200/4'000	L;D;K;S
+s11	DusKE	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+s18	DusKE	0.50000	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v2	DusKE	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v3	DusKE	0.50000	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v4	DusKE	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v5	DusKE	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v6	DusKE	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v7	DusKE	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v8	DusKE	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v9	DusKE	0.52518	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v10	DusKE	0.55036	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v11	DusKE	0.52518	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v12	DusKE	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v13	DusKE	0.52518	21%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v14	DusKE	0.50000	50%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+v17	DusKE	0.52518	50%	[K] Vampire	1	31'000	25'000/2'800	L;K;D;S
+v18	DusKE	0.50000	100%	[K] Vampire	1	31'000	25'000/2'800	L;K;D;S
+8	Scheriden	0.57554	100%	[K] Vampire	1	31'000	25'000/2'800	S;K;L;D
+Esmael	TF	0.56016	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Tirpitz	TF	0.55470	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Bismarck	TF	0.56017	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Aristocracy	TF	0.56564	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Stallion	TF	0.55470	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Fear	TF	0.52735	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dreadguard	TF	0.52188	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Alamain	TF	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Farizej	TF	0.51641	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Sith	TF	0.54376	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Horrorus	TF	0.52188	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Corellian	TF	0.50547	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Overlord	TF	0.52735	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Omnicorp	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Carnage	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dragonbreath	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Suppresor	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Karabor	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Dreadnought	TF	0.50547	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Richtenberg	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Rednex	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Carnage	TF	0.50547	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Carving	TF	0.51094	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Splendid	TF	0.51641	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Bergeron	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Gausing	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Ravenous	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Ascesion	TF	0.50000	100%	[L] Battle Crab	1	132'000	13'000/115'000	L;K;D;S
+Útok stíhače [S/L]: 1039402/1299252	Útok lode [S/L]: 380174/1689955	HP spolu [S/K/L/D]: 2924850/456010/3696000/0

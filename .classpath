@@ -1,0 +1,19 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala" output="target\scala-2.10\classes"/>
+  <classpathentry kind="src" path="src\main\java" output="target\scala-2.10\classes"/>
+  <classpathentry kind="src" path="src\main\resources" output="target\scala-2.10\classes"/>
+  <classpathentry kind="src" path="src\test\scala" output="target\scala-2.10\test-classes"/>
+  <classpathentry kind="src" path="src\test\java" output="target\scala-2.10\test-classes"/>
+  <classpathentry kind="src" path="src\test\resources" output="target\scala-2.10\test-classes"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\org.scala-lang\scala-swing\scala-swing-2.10.3-sources.jar" kind="lib" path=".\lib_managed\jars\org.scala-lang\scala-swing\scala-swing-2.10.3.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\com.netflix.rxjava\rxjava-scala\rxjava-scala-0.15.1-sources.jar" kind="lib" path=".\lib_managed\jars\com.netflix.rxjava\rxjava-scala\rxjava-scala-0.15.1.jar"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\com.netflix.rxjava\rxjava-core\rxjava-core-0.15.1-sources.jar" kind="lib" path=".\lib_managed\jars\com.netflix.rxjava\rxjava-core\rxjava-core-0.15.1.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\org.slf4j\slf4j-api\slf4j-api-1.7.5-sources.jar" kind="lib" path=".\lib_managed\jars\org.slf4j\slf4j-api\slf4j-api-1.7.5.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\org.slf4j\slf4j-simple\slf4j-simple-1.7.5-sources.jar" kind="lib" path=".\lib_managed\jars\org.slf4j\slf4j-simple\slf4j-simple-1.7.5.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\org.scalatest\scalatest_2.10\scalatest_2.10-2.0-sources.jar" kind="lib" path=".\lib_managed\jars\org.scalatest\scalatest_2.10\scalatest_2.10-2.0.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\junit\junit\junit-4.10-sources.jar" kind="lib" path=".\lib_managed\jars\junit\junit\junit-4.10.jar"/>
+  <classpathentry sourcepath=".\lib_managed\srcs\org.hamcrest\hamcrest-core\hamcrest-core-1.1-sources.jar" kind="lib" path=".\lib_managed\jars\org.hamcrest\hamcrest-core\hamcrest-core-1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>

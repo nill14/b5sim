@@ -1,0 +1,68 @@
+Proxima 3
+[pro]	A/A	Kolónia Drakhov	[K] Drakh Cruiser: 23
+[L] Drakh Advanced: 29
+A/A	Pozemská Aliancia	[K] Hyperion Cruiser: 10
+[K] Olympus Corvette: 73
+[L] Omega Destroyer: 64
+[L] Warlock Destroyer: 116
+-/-	Tienske Spoločenstvo	[K] Vampire: 67
+[L] Battle Crab: 48
+[D] Death Cloud: 11
+
+Abbai
+[abb]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Alpha 1
+[al1]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Alpha 2
+[al2]	A/A	Centaurská Republika	[K] Covran Scout: 2
+[L] Primus Cruiser: 2
+Brakesh
+[bra]	A/A	Centaurská Republika	[K] Kutai Gunship: 9
+[K] Vorchan Cruiser: 1
+[L] Covran Gunship: 24
+[L] Primus Cruiser: 8
+Centauri Prime
+[cen]	A/A	Centaurská Republika	iba stíhače
+Draxis
+[drx]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Inner Centauri Space
+[ics]	A/A	Centaurská Republika	[K] Covran Scout: 1
+[K] Vorchan Cruiser: 1
+[L] Covran Gunship: 1
+[L] Primus Cruiser: 8
+Immolan 5
+[imo]	A/A	Centaurská Republika	[L] Covran Gunship: 4
+[L] Primus Cruiser: 1
+Kandar
+[kan]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Lukantha
+[luk]	A/A	Centaurská Republika	[L] Covran Gunship: 1
+Outer Centauri Space
+[ocs]	A/A	Centaurská Republika	[K] Vorchan Cruiser: 3
+[L] Covran Gunship: 1
+[L] Primus Cruiser: 1
+Outer Drazu
+[odz]	A/A	Centaurská Republika	[K] Covran Scout: 2
+Omega 7
+[omg]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Pagati
+[pag]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Quadrant 13
+[q13]	A/A	Centaurská Republika	[K] Vorchan Cruiser: 4
+[L] Covran Gunship: 13
+[L] Primus Cruiser: 1
+Ragesh 3
+[rag]	A/A	Centaurská Republika	[K] Vorchan Cruiser: 1
+[L] Covran Gunship: 1
+Sector 51
+[s51]	A/A	Centaurská Republika	[K] Vorchan Cruiser: 6
+[L] Primus Cruiser: 9
+Sector 70
+[s70]	A/A	Centaurská Republika	[K] Covran Scout: 1
+Sector 81
+[s81]	A/A	Centaurská Republika	[L] Covran Gunship: 20
+[L] Primus Cruiser: 5
+Sector 84
+[s84]	A/A	Centaurská Republika	[L] Primus Cruiser: 1
+Tikar Home World
+[tik]	A/A	Centaurská Republika	[K] Covran Scout: 1

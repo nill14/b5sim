@@ -1,0 +1,10 @@
+target/
+bin/
+.worksheet/
+.cache
+.history
+project/project/
+lib_managed/
+
+
+*.class
