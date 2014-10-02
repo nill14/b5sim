@@ -1,7 +1,5 @@
 package scala.swing
 
-import scala.concurrent.ExecutionContext.Implicits.global
-import scala.swing.event.ButtonClicked
 import scala.swing.event.ButtonClicked
 import scala.swing.event.EditDone
 import scala.swing.event.Event
@@ -11,6 +9,7 @@ import rx.lang.scala.subjects.BehaviorSubject
 import rx.lang.scala.subjects.PublishSubject
 import suggestions.observablex.LogHelper
 import suggestions.observablex.SchedulerEx
+import scala.concurrent.ExecutionContext
 
 /** Basic facilities for dealing with Swing-like components.
 *
@@ -22,16 +21,12 @@ import suggestions.observablex.SchedulerEx
 */
 trait SwingRxApi extends LogHelper {
 
-  val eventScheduler = SchedulerEx.SwingEventThreadScheduler
   
-  def isInt(x: String): Boolean = {
-    try {
-      x.toInt
-      true
-    } catch {
-      case e: NumberFormatException => false
-    }
-  }
+  val poolExecutor = SchedulerEx.poolExecutor
+  val poolScheduler = SchedulerEx.poolScheduler
+  val eventScheduler = SchedulerEx.SwingEventThreadScheduler
+
+  implicit lazy val executionContext = ExecutionContext.fromExecutor(poolExecutor)
   
   implicit class ComboBoxOps[A](combobox: MyComboBox[A]) {
     
@@ -44,13 +39,24 @@ trait SwingRxApi extends LogHelper {
       */
     def selectionObservable: Observable[A] = {
       val channel = BehaviorSubject[A](item)
-      combobox.selection.subscribe {
-        case SelectionChanged(`combobox`) if combobox.selection.item != item => 
-          log.debug(s"SelectionChanged($combobox)")
-          item = combobox.selection.item
-          channel.onNext(item)
-        case _ => 
-      } 
+      
+      combobox.peer.addActionListener(new java.awt.event.ActionListener {
+        def actionPerformed(e: java.awt.event.ActionEvent) {
+          if (combobox.selection.item != item) {
+            item = combobox.selection.item
+            log.debug(s"SelectionChanged($item)")
+            channel.onNext(item)
+          } 
+        }
+      })    
+      
+//      combobox.selection.subscribe {
+//        case SelectionChanged(`combobox`) if combobox.selection.item != item => 
+//          item = combobox.selection.item
+//          log.debug(s"SelectionChanged($item)")
+//          channel.onNext(item)
+//        case _ => 
+//      } 
       
       channel
     }
@@ -67,18 +73,38 @@ trait SwingRxApi extends LogHelper {
       */
     def textObservable: Observable[String] = {
       val channel = BehaviorSubject[String](textValue)
-      field.subscribe {
-        case EditDone(`field`) if field.text != textValue => 
-          log.debug(s"EditDone($field)")
-          textValue = field.text
-          channel.onNext(textValue)
-        case _ =>  
-      } 
+//      field.subscribe {
+//        case EditDone(`field`) if field.text != textValue => 
+//          textValue = field.text
+//          log.debug(s"EditDone($textValue)")
+//          channel.onNext(textValue)
+//        case _ =>  
+//      } 
+      
+      field.peer.addPropertyChangeListener("text", new java.beans.PropertyChangeListener {
+        def propertyChange(evt: java.beans.PropertyChangeEvent) {
+          if (field.text != textValue) {
+            textValue = field.text
+            log.debug(s"EditDone($textValue)")
+            channel.onNext(textValue)
+          } 
+        }
+      })
       
       channel
     }
     
-    def intObservable = field.textObservable.filter(isInt).map{_.toInt}
+    def intObservable = {
+      val subject = PublishSubject[Int]()      
+      field.textObservable.observeOn(poolScheduler).subscribe{ x => 
+        try {
+          subject.onNext(x.toInt)
+        } catch {
+          case e: NumberFormatException => log.debug("not int", x)
+        }
+      }
+      subject
+    }
   }
 
   implicit class ButtonOps(button: Button) {
@@ -90,12 +116,19 @@ trait SwingRxApi extends LogHelper {
      */
     def clickObservable: Observable[Button] = {
       val channel = PublishSubject[Button]()
-      button.subscribe {
-        case ButtonClicked(`button`)  => 
-          log.debug(s"ButtonClicked($button)")
+      
+      button.peer.addActionListener(new java.awt.event.ActionListener {
+        def actionPerformed(e: java.awt.event.ActionEvent) {
+          log.debug(s"ButtonClicked()")
           channel.onNext(button)
-        case _ =>
-      }
+        }
+      })       
+//      button.subscribe {
+//        case ButtonClicked(`button`)  => 
+//          log.debug(s"ButtonClicked()")
+//          channel.onNext(button)
+//        case _ =>
+//      }
         
       channel  
     }
@@ -112,13 +145,23 @@ trait SwingRxApi extends LogHelper {
      */
     def checkObservable: Observable[Boolean] = {
       val channel = BehaviorSubject[Boolean](selected)
-      checkbox.subscribe {
-        case ButtonClicked(`checkbox`) if selected != checkbox.selected => 
-          selected = checkbox.selected
-          log.debug(s"Checkbox($selected)")
-          channel.onNext(selected)
-        case _ => 
-      }
+      
+      checkbox.peer.addActionListener(new java.awt.event.ActionListener {
+        def actionPerformed(e: java.awt.event.ActionEvent) {
+          if (selected != checkbox.selected) {
+            selected = checkbox.selected
+            log.debug(s"Checkbox($selected)")
+            channel.onNext(selected)
+          } 
+        }
+      })       
+//      checkbox.subscribe {
+//        case ButtonClicked(`checkbox`) if selected != checkbox.selected => 
+//          selected = checkbox.selected
+//          log.debug(s"Checkbox($selected)")
+//          channel.onNext(selected)
+//        case _ => 
+//      }
         
       channel  
     }

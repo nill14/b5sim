@@ -5,8 +5,10 @@ import scala.swing.BorderPanel.Position._
 import event._
 import java.awt.Color
 import scala.util.Random
+import rx.lang.scala.Subscriber
+import rx.lang.scala.Observer
 
-object SimpleGUI extends SimpleSwingApplication {
+object SimpleGUI extends SimpleSwingApplication with SwingRxApi {
 
   def top = new MainFrame { // top is a required method
     title = "A Sample Scala Swing GUI"
@@ -80,5 +82,11 @@ object SimpleGUI extends SimpleSwingApplication {
         canvas.throwDart(new Dart(point.x, point.y, Color.black))
         textField.text = (s"You clicked in the Canvas at x=${point.x}, y=${point.y}.") 
     }
+    
+    checkBox.checkObservable.subscribe(new Observer[Boolean] {
+      override def onNext(value: Boolean) {
+        log.debug("Checked: {} ", value)
+      }
+    } )
   }
 }

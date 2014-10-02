@@ -25,6 +25,17 @@ package object gui {
   def newLabel(text: String) = new scala.swing.Label(text)
 
 
+  def newComboBox[E](model: Seq[E]) = new MyComboBox(model)
+
+  def newIntField() = new TextField {
+    columns = 3
+//    verifier = isInt
+    peer.addFocusListener(new FocusAdapter() {
+      override def focusGained(e: java.awt.event.FocusEvent) {
+        peer.selectAll
+      }
+    })
+  }
 
   def newComboBox[E](model: Seq[E], selection: Option[E]) = {
     val combobox = new MyComboBox(model)

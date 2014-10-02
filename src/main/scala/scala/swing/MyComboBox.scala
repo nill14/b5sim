@@ -8,9 +8,10 @@
 
 package scala.swing
 
-import event._
-import javax.swing.{JList, JComponent, JComboBox, JTextField, ComboBoxModel, AbstractListModel, ListCellRenderer}
 import java.awt.event.ActionListener
+import event.ActionEvent
+import javax.swing.{AbstractListModel, ComboBoxModel, JComboBox, JComponent, JTextField}
+import suggestions.observablex.LogHelper
 
 object MyComboBox {
   /**
@@ -156,7 +157,7 @@ object MyComboBox {
  *
  * @see javax.swing.JComboBox
  */
-class MyComboBox[A](items: Seq[A]) extends Component with Publisher {
+class MyComboBox[A](items: Seq[A]) extends Component with Publisher  with LogHelper {
   override lazy val peer: JComboBox[A] = new JComboBox(MyComboBox.newConstantModel(items)) with SuperMixin
 
   object selection extends Publisher {
@@ -170,9 +171,20 @@ class MyComboBox[A](items: Seq[A]) extends Component with Publisher {
     })
   }
 
-  def newItems(items: Seq[A]) {
+  def model = items
+  
+  def model_= (items: Seq[A]): Unit = {
+    log.debug("comboBox.model is set");
+    val selection = this.selection.item
     peer.setModel(MyComboBox.newConstantModel(items))
-  }  
+    if (items.contains(selection)) {
+      this.selection.item = selection
+    }
+  }
+  
+//  def newItems(items: Seq[A]) {
+//    peer.setModel(MyComboBox.newConstantModel(items))
+//  }  
   
   /**
    * Sets the renderer for this combo box's items. Index -1 is

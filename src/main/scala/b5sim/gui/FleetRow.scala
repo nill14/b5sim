@@ -25,13 +25,12 @@ import b5sim.model.Race
 import java.awt.event.FocusAdapter
 import suggestions.observablex.LogHelper
 import scala.concurrent._
-import ExecutionContext.Implicits.global
 import rx.lang.scala.subjects.PublishSubject
 import org.slf4j.MarkerFactory
 import rx.lang.scala.subjects.AsyncSubject
 import b5sim.model._
 
-class FleetRow(
+class FleetRow (
   var y: Int,  
   var item: Option[FleetItem],
   implicit val panel: Panel) extends SwingRxApi with LogHelper {
@@ -63,24 +62,35 @@ class FleetRow(
   val shipObs = comboShips.selectionObservable
   val countObs = countField.intObservable
   val strategyObs = comboStrategy.selectionObservable  
-  val removeObs: Observable[Option[FleetItem]] = removeButton.clickObservable.map(_ => None)
+  val removeObs: Observable[Option[FleetItem]] = removeButton.clickObservable.map(_ => {log.debug("removeObs"); None})
 
-  val itemObs: Observable[Option[FleetItem]] = {
+  val modelObs: Observable[Option[FleetItem]] = {
     val subject = PublishSubject[Option[FleetItem]]
     //use subject cause of error
     //Caused by: java.lang.IllegalStateException: Only one Observer can subscribe to this Observable.
     
     val obs = shipObs.combineLatest(countObs).combineLatest(strategyObs).map {
-      case ((ship, count), strategy) => 
-        val item = Some(FleetItem(ship, count, strategy))
-        log.debug(s"[$this] $item")
-				this.item = item
-				item
-    }
+      case ((ship, count), strategy) => Some(FleetItem(ship, count, strategy))
+    } 
     
     obs.subscribe(subject)
+    removeObs.subscribe(subject)
     subject
   }
+  
+  modelObs.subscribe(optItem => {
+    log.debug(s"[$this] $optItem")
+    this.item = optItem
+    optItem match {
+      case Some(FleetItem(ship, count, strategy)) =>
+        log.debug(s"[$this] initialize row with $optItem")
+        comboRace.selection.item = ship.race
+        comboShips.selection.item = ship
+        countField.text = count.toString
+        comboStrategy.selection.item = strategy
+      case None =>
+    }
+  })
   	
   val shipsInputObs: Observable[Vector[SpaceShip]] = {
     var old: Race.Value = null
@@ -95,7 +105,7 @@ class FleetRow(
     (items: Vector[SpaceShip]) =>
       log.debug(s"[$this] newItems: $items")
       val selection = comboShips.selection.item
-      comboShips.newItems(items)
+      comboShips.model = items
       if (items.contains(selection)) {
         comboShips.selection.item = selection
       }
@@ -104,41 +114,5 @@ class FleetRow(
   shipObs.observeOn(eventScheduler) subscribe {
     (ship: SpaceShip) => comboStrategy.selection.item = Strategy.strategyFor(ship)
   }
-  
-  removeObs.subscribe { btn =>
-    log.debug(s"[$this] removeAction: $btn")
-    remove
-  }
-
-  
-  val modelObs = itemObs.merge(removeObs)
-  
-  item match {
-    case Some(FleetItem(ship, count, strategy)) =>
-      log.debug(s"[$this] initialize row with $item")
-      comboRace.selection.item = ship.race
-      comboShips.selection.item = ship
-      countField.text = count.toString
-      comboStrategy.selection.item = strategy
-    case None =>
-  }
-
-  def remove {
-//    removeObs.onCompleted
-    //      	deafTo(comboCategory.selection)
-    //	    	deafTo(comboShips.selection)
-    //	    	deafTo(countField)
-    //	    	if (canRemove) deafTo(removeButton)
-
-//    contents -= comboRace
-//    contents -= comboShips
-//    contents -= countField
-//    contents -= comboStrategy
-//    contents -= removeButton
-
-//    modelObs.onNext(None)
-//    modelObs.onCompleted()
-  }
-
 
 } 

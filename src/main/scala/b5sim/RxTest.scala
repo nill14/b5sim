@@ -12,7 +12,7 @@ import rx.lang.scala.Subscription
 import suggestions.observablex.SchedulerEx
 import rx.lang.scala.subjects.PublishSubject
 import suggestions.observablex.LogHelper
-import rx.lang.scala.concurrency.Schedulers
+//import rx.lang.scala.Schedulers
 
 object RxTest extends App with LogHelper {
   
@@ -25,8 +25,8 @@ object RxTest extends App with LogHelper {
 	  onNext => log.info(onNext.toString)
 	}
 	
-	subject.subscribe(
-	  {(onNext: Int) => log.info(onNext.toString)}, scheduler
+	subject.subscribeOn(scheduler).subscribe(
+	  {(onNext: Int) => log.info(onNext.toString)}
 	)
 	
 	
